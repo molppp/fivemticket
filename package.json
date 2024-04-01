@@ -1,0 +1,15 @@
+{
+    "name": "MODLOFF-discord-bot",
+    "version": "1.0.0",
+    "description": "MODLOFF FiveM v14 Bots",
+    "main": "fivem.js",
+    "scripts": {
+        "start": "node fivem.js"
+    },
+    "engines": {
+        "node": ">=16.6.0"
+    },
+    "dependencies": {
+        "discord.js": "^14.14.1"
+    }
+}

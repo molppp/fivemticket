@@ -1,0 +1,25 @@
+{
+    "token": "",
+    "guildID": "",
+    "guildName": "FirstClass V | fcrp.com.tr",
+    "Prefix": ".",
+    "BotDurum": "Developed by MODLOFF",
+
+    "welcomeChannel": "",
+    "helpChannel": "",
+    "AutoRoleID": "",
+    "staffRoleID": "",
+    "OwnerRoleID": "",
+    "WhitelitRole": "",
+
+    "YetkiliMesaj": "En kısa sürede yetkili ekibimiz sizinle iletişime geçecektir, lütfen bekleyin.",
+    "HelpMesaj": "En kısa sürede yetkili ekibimiz sizinle iletişime geçecektir, lütfen bekleyin.",
+    "SunucuIP":"connect 193.223.105.153",
+    "SunucuTS":"VoiceChat",
+
+    "aktifPhoto": "https://media.discordapp.net/attachments/1191638956924747836/1209140508153086013/1.png",
+    "bakimPhoto": "https://media.discordapp.net/attachments/1191638956924747836/1209140508153086013/1.png",
+    "restartPhoto": "https://media.discordapp.net/attachments/1191638956924747836/1209140508153086013/1.png"
+
+
+}
